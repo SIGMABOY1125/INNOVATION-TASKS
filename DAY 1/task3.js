@@ -20,4 +20,5 @@ for (let i = 1; i <= 5; i++) {
 function greet(name) {
     return "Hello, " + name + "!";
 }
-console.log(greet("DARSSHINI RAGAVAN"));
+console.log(greet("NISHANTH"));
+
